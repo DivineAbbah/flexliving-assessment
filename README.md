@@ -57,8 +57,8 @@ npm or yarn
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/flexliving-reviews.git
-cd flexliving-reviews
+git clone https://github.com/DivineAbbah/flexliving-assessment.git
+cd flexliving-assessment
 ```
 
 2. **Install frontend dependencies**
